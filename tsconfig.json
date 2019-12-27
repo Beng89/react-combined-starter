@@ -6,6 +6,10 @@
     "module": "commonjs",
     "strict": true,
     "target": "es5",
+    "lib": [
+      "DOM",
+      "ES2015.Collection"
+    ],
     "jsx": "react",
   },
   "include": [
